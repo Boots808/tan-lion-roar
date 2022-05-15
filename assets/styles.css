@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: purple;
+    background-color: #d9dcd6;
 }
 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: gray;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -198,6 +198,12 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+
+
+
+
+
 
 
   /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */

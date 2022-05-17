@@ -24,11 +24,11 @@ header h1 .stankey {
     color: #d9dcd6;
 }
 
-header div {
+.header-nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-size: 20px;
+    font-size: 38px;
 }
 
 header div ul {
@@ -36,8 +36,9 @@ header div ul {
 }
 
 header div ul li {
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
+    font-size: 25px;
 }
 
 a {
@@ -46,7 +47,11 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
+}
+
+.footer-p {
+    font-size: 30px;
 }
 
 /* HERO STYLES START - Referenced w3 for position element */
@@ -113,6 +118,7 @@ p {
     position: relative;
     text-decoration: solid;
     font-size: 32px;
+    
 }
 
 .about-info {
@@ -121,7 +127,6 @@ p {
     color: #000000;
     width: 800px;
     height: 300px;
-    display: inline-block;
     word-wrap: wrap;
     text-align: left;
     position: absolute;
@@ -177,9 +182,17 @@ p {
   }
 
 footer {
+background-color: #441290;
+}
+
+.footer-h3 {
     padding: 30px;
+    color: #FFFFFF;
+    font-size:24px;
+    text-decoration:solid;
     text-align: center;
-    font-size: 20px;
+    height: 150px;
+
 }
 
 

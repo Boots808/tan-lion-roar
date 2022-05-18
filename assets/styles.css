@@ -195,7 +195,9 @@ background-color: #441290;
     list-style: none;
 
 }
-
+footer ul {
+    list-style-type: none;
+}
 footer div ul li {
     display: inline;
     margin-left: 25px;

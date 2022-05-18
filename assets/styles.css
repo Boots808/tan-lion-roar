@@ -192,7 +192,14 @@ background-color: #441290;
     text-decoration:solid;
     text-align: center;
     height: 150px;
+    list-style: none;
 
+}
+
+footer div ul li {
+    display: inline;
+    margin-left: 25px;
+    font-size: 25px;
 }
 
 

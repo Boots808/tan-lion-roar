@@ -58,7 +58,7 @@ p {
 .hero {
     position: relative;
     margin-bottom: 25px;
-    background-image: url("../images/pexels.jpg");
+    background-image: url("./Images/pexels.jpg");
     background-size: cover;
     background-position: center;
 }

@@ -97,6 +97,10 @@ p {
     margin-left: 25px;
 }
 /* details styles */
+.headshot{
+    margin-left: 80px;
+    margin-top: 2px;
+}
 .content {
     width: 75%;
     display: inline-block;

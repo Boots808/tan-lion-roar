@@ -1,4 +1,4 @@
-* {
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -13,7 +13,7 @@ header {
     padding: 20px;
     background-color:#441290;
     color: #ffffff;
-}
+} */
 
 header h1 {
     display: inline-block;
@@ -154,6 +154,7 @@ p {
     grid-gap: 10px;
     margin-left: 220px;
     padding: 20px;
+    align-content: center;
   }
   
   .grid img {
@@ -219,4 +220,4 @@ footer div ul li {
       padding-bottom: 0;
       justify-content: center;
       position: relative;
-    }
+    } */
